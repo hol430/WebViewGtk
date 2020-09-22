@@ -14,8 +14,7 @@
 
   <ItemGroup>
     <PackageReference Include="GtkSharp" Version="3.22.25.*" />
-    <ProjectReference Include="..\webview_csharp\src\SharpWebview\SharpWebview.csproj" />
-    <!--<PackageReference Include="SharpWebView" Version="0.6.1" />-->
+    <PackageReference Include="SharpWebView" Version="0.6.1-embedbeta" />
   </ItemGroup>
 
 </Project>
